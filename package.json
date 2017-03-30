@@ -1,0 +1,22 @@
+{
+  "name": "seabotnodejs",
+  "version": "1.0.0",
+  "description": "Nodejs twitch bot.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesealion95/NodeSeabot.git"
+  },
+  "author": "Thesealion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thesealion95/NodeSeabot/issues"
+  },
+  "homepage": "https://github.com/thesealion95/NodeSeabot#readme",
+  "dependencies": {
+    "tmi.js": "^1.1.2"
+  }
+}
