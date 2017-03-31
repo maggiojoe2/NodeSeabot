@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/thesealion95/NodeSeabot#readme",
   "dependencies": {
+    "request": "^2.81.0",
     "tmi.js": "^1.1.2"
   }
 }
